@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="cars.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<cars>
+    <car carId="1">
+        <model>Škoda Oktávia</model>
+        <saleDate>2010-12-02T00:00:00</saleDate>
+        <price currency="CZK">500.000</price>
+        <vat>20</vat>
+    </car>
+    <car carId="2">
+        <model>Škoda Felicia</model>
+        <saleDate>2000-12-03T00:00:00</saleDate>
+        <price currency="CZK">210.000</price>
+        <vat>20</vat>
+    </car>
+    <car carId="3">
+        <model>Škoda Fabia</model>
+        <saleDate>2010-12-04T00:00:00</saleDate>
+        <price currency="CZK">350.000</price>
+        <vat>20</vat>
+    </car>
+    <car carId="4">
+        <model>Škoda Oktávia</model>
+        <saleDate>2010-12-04T00:00:00</saleDate>
+        <price currency="CZK">500.000</price>
+        <vat>20</vat>
+    </car>
+    <car carId="5">
+        <model>Škoda Oktávia</model>
+        <saleDate>2010-12-05T00:00:00</saleDate>
+        <price currency="CZK">500.000</price>
+        <vat>20</vat>
+    </car>
+    <car carId="6">
+        <model>Škoda Fabia</model>
+        <saleDate>2010-12-05T00:00:00</saleDate>
+        <price currency="CZK">350.000</price>
+        <vat>20</vat>
+    </car>
+    <car carId="7">
+        <model>Škoda Fabia</model>
+        <saleDate>2010-12-06T00:00:00</saleDate>
+        <price currency="CZK">350.000</price>
+        <vat>20</vat>
+    </car>
+    <car carId="8">
+        <model>Škoda Forman</model>
+        <saleDate>2000-12-04T00:00:00</saleDate>
+        <price currency="CZK">100.000</price>
+        <vat>19</vat>
+    </car>
+    <car carId="9">
+        <model>Škoda Favorit</model>
+        <saleDate>2000-12-05T00:00:00</saleDate>
+        <price currency="CZK">80.000</price>
+        <vat>19</vat>
+    </car>
+    <car carId="10">
+        <model>Škoda Forman</model>
+        <saleDate>2000-12-06T00:00:00</saleDate>
+        <price currency="CZK">100.000</price>
+        <vat>19</vat>
+    </car>
+    <car carId="11">
+        <model>Škoda Felicia</model>
+        <saleDate>2000-12-03T00:00:00</saleDate>
+        <price currency="CZK">210.000</price>
+        <vat>19</vat>
+    </car>
+    <car carId="12">
+        <model>Škoda Felicia</model>
+        <saleDate>2000-12-02T00:00:00</saleDate>
+        <price currency="CZK">210.000</price>
+        <vat>19</vat>
+    </car>
+    <car carId="13">
+        <model>Škoda Oktávia</model>
+        <saleDate>2010-12-07T00:00:00</saleDate>
+        <price currency="CZK">500.000</price>
+        <vat>20</vat>
+    </car>
+</cars>
